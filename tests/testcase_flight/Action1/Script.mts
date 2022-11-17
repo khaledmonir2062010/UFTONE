@@ -4,3 +4,4 @@ WpfWindow("Micro Focus MyFlight Sample").WpfButton("OK").Click @@ hightlight id_
 WpfWindow("Micro Focus MyFlight Sample").WpfComboBox("fromCity").Select "Los Angeles" @@ hightlight id_;_2033805952_;_script infofile_;_ZIP::ssf8.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfComboBox("toCity").Select "London" @@ hightlight id_;_2005168744_;_script infofile_;_ZIP::ssf10.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfButton("FIND FLIGHTS").Click @@ hightlight id_;_2000995424_;_script infofile_;_ZIP::ssf11.xml_;_
+'helloworld
